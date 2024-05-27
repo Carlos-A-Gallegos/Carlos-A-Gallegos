@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Gallegos</h1>
 <h3 align="center">Self-motivated data analyst with experience in over 5 technical projects involving business analytics, data visualization, SQL, Tableau, Power BI and Phyton</h3>
 
-- 🔭 I’m currently working on [Analysis on Return Rate on Superstore](https://public.tableau.com/views/ProjectStorytelling0522/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
 - 🌱 I’m currently learning **Intelligence Business Analysis at Tripleten**
-
-- 👯 I’m currently working on [Data visualization](https://public.tableau.com/views/Project4051024/2_2AverageprofitpermonthandstateChart?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-- 💬 Ask me about **Data analysis with Advanced Spreadsheets, Visualization on Tableau**
 
 - 📫 How to reach me **carlitosgallegos@gmail.com**
 
