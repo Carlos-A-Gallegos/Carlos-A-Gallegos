@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Gallegos</h1>
-<h3 align="center">Self-motivated data analyst with experience in over 5 technical projects involving business analytics, data visualization, SQL, Tableau, Power BI and Phyton</h3>
+<h3 align="center">Self-motivated data analyst with experience in over 6 technical projects involving business analytics, data visualization, SQL, Tableau, Power BI and Phyton</h3>
 
-- 🌱 I’m currently learning **Intelligence Business Analysis at Tripleten**
+- 🌱 I’m a  **Intelligence Business Analyst**
 
 - 📫 How to reach me **carlitosgallegos@gmail.com**
 
