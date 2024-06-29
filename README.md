@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm Carlos A Gallegos</h1>
-<h3 align="center">Self-motivated data analyst with experience in over 6 technical projects involving business analytics, data visualization, SQL, Tableau, Power BI and Phyton</h3>
+# Carlos Gallegos
 
-- 🌱 I’m a  **Intelligence Business Analyst**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCarlos-Gallegos%2FCarlos-Gallegos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 📫 How to reach me **carlitosgallegos@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosandresgallegos/)
 
-- ⚡ Fun fact **Into RPG Videogames and Grill Mastering as well :)**
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carlitosgallegos@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlosandresgallegos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosandresgallegos" height="30" width="40" /></a>
-<a href="https://instagram.com/carlosgallegos4811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosgallegos4811" height="30" width="40" /></a>
-</p>
+[![Github](https://img.shields.io/github/followers/Carlos-Gallegos?label=Follow&style=social)](https://github.com/Carlos-Gallegos)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 💻 A junior business intelligence analyst with expertise in data interpretation,, spreadsheets, Microsoft Office, SQL, Tableau and Power BI. Experienced in fast-paced environments, I am a communicative, quick-learning, and inquisitive team player committed to professional growth. Successfully completed four technical projects demonstrating proficiency in business analytics.
+
+
+### 🖥 Skills
+
+- Problem Solving 
+- Data interpretation
+- Advanced Spreadsheets
+- Excel 
+- Power BI
+- Data Visualization (Tableau) 
+- SQL 
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=plastic&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=plastic&logo=Tableau&color=353535) ![Bootstrap](https://img.shields.io/badge/-Google%20Sheets-05122A?style=plastic&logo=Google-Sheets&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=plastic&logo=Microsoft-Excel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20PowerPoint-05122A?style=plastic&logo=Microsoft-PowerPoint&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=353535)
+
+<div>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Gallegos&" alt="Carlos-Gallegos" />
+</div>
+
