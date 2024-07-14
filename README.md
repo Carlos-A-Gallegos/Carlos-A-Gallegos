@@ -16,10 +16,12 @@
 - Problem Solving 
 - Data interpretation
 - Advanced Spreadsheets
-- Excel 
+- Advanced Excel 
+- Data Visualization
+- Tableau
 - Power BI
-- Data Visualization (Tableau) 
-- SQL 
+- SQL
+- Python
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=plastic&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=plastic&logo=Tableau&color=353535) ![Bootstrap](https://img.shields.io/badge/-Google%20Sheets-05122A?style=plastic&logo=Google-Sheets&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=plastic&logo=Microsoft-Excel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20PowerPoint-05122A?style=plastic&logo=Microsoft-PowerPoint&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=plastic&logo=PostgreSQL&color=353535)
