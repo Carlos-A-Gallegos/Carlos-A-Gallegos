@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/Carlos-Gallegos?label=Follow&style=social)](https://github.com/Carlos-Gallegos)
 
-- 💻 A junior business intelligence analyst with expertise in data interpretation,, spreadsheets, Microsoft Office, SQL, Tableau and Power BI. Experienced in fast-paced environments, I am a communicative, quick-learning, and inquisitive team player committed to professional growth. Successfully completed four technical projects demonstrating proficiency in business analytics.
+- 💻 A business intelligence analyst with expertise in data interpretation,, spreadsheets, Microsoft Office, SQL, Tableau and Power BI. Experienced in fast-paced environments, I am a communicative, quick-learning, and inquisitive team player committed to professional growth. Successfully completed four technical projects demonstrating proficiency in business analytics.
 
 
 ### 🖥 Skills
